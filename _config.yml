@@ -1,1 +1,14 @@
 remote theme: jekyll-theme-hamilton
+title: Maha
+description: njn
+author: nnk
+avatar: /logo.png
+email: ngzhio@gmail.com
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 10
